@@ -1,5 +1,5 @@
-numpy
-pandas
-scikit-learn
-joblib
-flask
+Flask==3.1.2
+gunicorn==21.2.0
+numpy==1.26.4
+scikit-learn==1.8.0
+joblib==1.5.3
